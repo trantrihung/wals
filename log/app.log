@@ -15102,3 +15102,346 @@
 2024-11-25 14:07:43 [[32minfo[39m]: Account 10 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
 2024-11-25 14:07:43 [[32minfo[39m]: Account 11 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
 2024-11-25 14:07:43 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:07:44 [[32minfo[39m]: Account 2 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:44 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : 4dQFx3eGwjQiJQaoySz9f8HRXrWiHhCALo8edzFGdEXZ
+2024-11-25 14:07:44 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:07:44 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:07:44 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:07:44 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : FpgWHuvFiUgqgS5qBuN9DiEEEf42xUGSsoywjErb9ty3
+2024-11-25 14:07:45 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:07:45 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : 9PuMyUza8HknTbNyoBYTgexk7BFL7eKoejyKDGZcRcem
+2024-11-25 14:07:45 [[32minfo[39m]: Account 8 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:45 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : 3tSkeBCFnudMGs5AfRdUDqv5KRYTqYzSAXVvUSxibBrC
+2024-11-25 14:07:45 [[32minfo[39m]: Account 7 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:46 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : 63coD1g1HMZptgspizoX3mR1FGG5PBegbsAhnPfEyPx8
+2024-11-25 14:07:46 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : A17dGZ2xsKGCMXhp2mWHDUadKXw2571Uz6iV1m28pPkW
+2024-11-25 14:07:46 [[32minfo[39m]: Account 12 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:46 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:07:46 [[32minfo[39m]: Account 5 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:46 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:07:47 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : 2dkyap6DBbfCvvizLAtTACMvuimGGZVJRVmu6hF95LmA
+2024-11-25 14:07:47 [[32minfo[39m]: Account 4 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:47 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : EuNqrU5RRYvqxabcowbepKCoTEXxkeiUPXax4U5JBZaX
+2024-11-25 14:07:47 [[32minfo[39m]: Account 1 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:47 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : Ef2HQqAa5h2Dn2DEdvCTjQoiL6LHzBNujp4qwjj88T7c
+2024-11-25 14:07:47 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:07:47 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:07:47 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : DLETYCwF7nq8s7URwnq9Cj6DPKyKv6YemNFJxi4PVxaT
+2024-11-25 14:07:48 [[32minfo[39m]: Account 14 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:48 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : HjNuXdc7prtDrMe364BQcS9EHSZdtuYkSiaCP6cL4ctS
+2024-11-25 14:07:48 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:07:48 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : HjR8NL9RKyy6UNEvowmf6QHsSLFC8UW8p8dcG67M9XUy
+2024-11-25 14:07:48 [[32minfo[39m]: Account 9 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:48 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : 35GFodD2kKRTnZeQ5ZrjBE5rvjDzGBPM2RmU1shXB5MC
+2024-11-25 14:07:48 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:07:48 [[32minfo[39m]: Account 13 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:48 [[32minfo[39m]: Account 6 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:49 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:07:49 [[32minfo[39m]: Account 3 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:49 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : 7cp9Qve7eFXzE2ey7R6d8FizS7ZsZECSVcCCxE5gchrx
+2024-11-25 14:07:49 [[32minfo[39m]: Account 10 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:49 [[32minfo[39m]: Account 11 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:49 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:07:49 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:07:49 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:07:50 [[32minfo[39m]: Account 2 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:50 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:07:50 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:07:50 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:07:50 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : 6zew4N6Tjdkm99ia9UGYGJ4Wd8qv4Agx3876L2P7wCyr
+2024-11-25 14:07:50 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : 12Skqwx3dajxt1RyTgSiVJLkfE16RywJfsivWMf8dUuH
+2024-11-25 14:07:51 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:07:51 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : 7B45wTijdYYqNBoZhZuL943WduMW2nN83RCs2XaMJJzX
+2024-11-25 14:07:51 [[32minfo[39m]: Account 8 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:51 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : CpmPz1bYvPEYGa1pddus7rhvFLrf3djGMbd1Ysocgn2d
+2024-11-25 14:07:51 [[32minfo[39m]: Account 7 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:52 [[32minfo[39m]: Account 12 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:52 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : 6HfpXgaTvag4nz9pzvAPevZoBYGFB8ydyDjhu3ubRBLH
+2024-11-25 14:07:52 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : AZMwSWmz5kJLhF46sCjjffpWaqVsTG5DNHRwoc3dJWJs
+2024-11-25 14:07:52 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:07:52 [[32minfo[39m]: Account 5 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:52 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:07:53 [[32minfo[39m]: Account 12 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:53 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : FpjRjMxZP7sd6droAmTzbUbpFGgUirPfseoH8hCGFxDZ
+2024-11-25 14:07:53 [[32minfo[39m]: Account 4 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:53 [[32minfo[39m]: Account 1 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:53 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : WwzZmGAAmxAG8Spb1qZtkbUnM9uVyhMi9V6xGeYas8B
+2024-11-25 14:07:53 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : 5oDQVLviGQtip5tTdAxz1Y3bdeQYmqvhLzXZXhA6aHLT
+2024-11-25 14:07:53 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:07:54 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : 4LzoxLU6YYWiq9EEbuXvHvt1jPq3tZkWLxLYQkaX7x9b
+2024-11-25 14:07:54 [[32minfo[39m]: Account 13 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:54 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:07:54 [[32minfo[39m]: Account 14 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:54 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:07:54 [[32minfo[39m]: Account 6 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:54 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : 6TLxy5rRtM92iXYqQCGAKC3xYDnt1wgfqnFqEsAJB7j
+2024-11-25 14:07:54 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : 7PYwHWT9XNeJuCy6yNdLtCj31m7QMw6DWdnpvDYowFK6
+2024-11-25 14:07:54 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:07:54 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : AAcmC2ZX9dcK2BVJ6y1y27qZYPrY6W26biLuTn4jNDhg
+2024-11-25 14:07:54 [[32minfo[39m]: Account 9 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:55 [[32minfo[39m]: Account 13 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:55 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:07:55 [[32minfo[39m]: Account 6 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:55 [[32minfo[39m]: Account 3 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:55 [[32minfo[39m]: Account 10 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:55 [[32minfo[39m]: Account 11 - Đang trao đổi SUI → WAL
+2024-11-25 14:07:55 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:07:55 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : FsGp9FLhWASvf1PZS7ZaaqVEdWSST5oQwdTd2eDqPDyJ
+2024-11-25 14:07:56 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:07:56 [[32minfo[39m]: Account 2 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:56 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:07:56 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:07:56 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:07:56 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:07:56 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : 69iqRgYDb2HYhe1wweY4cdBBQrXyQ9Ww1FKDHN6wy72L
+2024-11-25 14:07:57 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : 91jubocmhDLcASVm6wcm3qoLsbcBgEMdQh8H77csv5vQ
+2024-11-25 14:07:57 [[32minfo[39m]: Account 8 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:57 [[32minfo[39m]: Account 2 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:57 [[32minfo[39m]: Account 7 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:57 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : A7HWpyqvFLJ61fKAExXWrYmNNKrAr78XStxqLUe9WHDv
+2024-11-25 14:07:58 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : 5EfWi1EgXuX8dD6Kp8BAvu2QSVGszyV2JjiG7yFMGu1F
+2024-11-25 14:07:58 [[32minfo[39m]: Account 5 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:58 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:07:58 [[32minfo[39m]: Account 8 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:58 [[32minfo[39m]: Account 7 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:58 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : GXjKyF8WsBJyJCdtoTC18iie2iUY9U8HcTm4F6sRG3qM
+2024-11-25 14:07:58 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : KwGQjNUpJmYUxrurtgFM7DUkrGNbCd4kLgWeHhVz16Y
+2024-11-25 14:07:59 [[32minfo[39m]: Account 12 - Đang trao đổi WAL → SUI
+2024-11-25 14:07:59 [[32minfo[39m]: Account 4 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:59 [[32minfo[39m]: Account 1 - Đang hợp nhất đồng tiền
+2024-11-25 14:07:59 [[32minfo[39m]: Account 5 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:07:59 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:07:59 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:07:59 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : AyPvuLoKNzrHAKsQsiE7QxMmq5Eeqqu2wDUSFuN4wa6i
+2024-11-25 14:07:59 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : 2DRNRqb31UvWWHRvRMYdKcSssvj23mFTn5naHVw7cbhj
+2024-11-25 14:08:00 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : Fc8GRaKRumJDmdRUuSM9nMFiQCrWdf21K289eaTtKuTW
+2024-11-25 14:08:00 [[32minfo[39m]: Account 14 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:00 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:08:00 [[32minfo[39m]: Account 4 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:00 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : EGjSetfdtfzoWotj1SFSEBgpJ41voei4oAzxpdN5Nbo3
+2024-11-25 14:08:00 [[32minfo[39m]: Account 9 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:00 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:08:00 [[32minfo[39m]: Account 1 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:00 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : E39Bha7yZ8YJ93YUBMFpFGQWMjMdChd9GEQaKFy5PZs5
+2024-11-25 14:08:00 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : DX9VTGMqYGVazfssUbHVbCiVzjZR1wgTay8vtCxdk6p6
+2024-11-25 14:08:00 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : DqfeoCaampQ7iKVRcDFGvoPuENHeSQESgDHbdhFh3DxH
+2024-11-25 14:08:01 [[32minfo[39m]: Account 13 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:01 [[32minfo[39m]: Account 14 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:01 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:08:01 [[32minfo[39m]: Account 3 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:01 [[32minfo[39m]: Account 11 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:01 [[32minfo[39m]: Account 10 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:01 [[32minfo[39m]: Account 6 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:01 [[32minfo[39m]: Account 9 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:01 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:08:02 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : DcLC9DppPKT5sv6VSPZcXkJbz4YVdrSV1QiZciSUEZ5S
+2024-11-25 14:08:02 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:08:02 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:08:02 [[32minfo[39m]: Account 3 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:02 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:08:02 [[32minfo[39m]: Account 11 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:02 [[32minfo[39m]: Account 10 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:02 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:08:03 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : DaiQEU9zGhzwcQPufhMmMxTdo1a7VKK5MX3x6MySW7s5
+2024-11-25 14:08:03 [[32minfo[39m]: Account 2 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:03 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : DNndoyFZMLcAQCvrMYqJb34auumA3GmTsDCLZhwTainf
+2024-11-25 14:08:03 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:08:03 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:08:03 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:08:04 [[32minfo[39m]: Account 8 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:04 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:08:04 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : 2QV7nvggQxiZGxC7hz3FZpLFmTYSPjWfbUxkwcYfSvnn
+2024-11-25 14:08:04 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : 6LF6Zb8bg4Z7KKy5W7A1oav2irbpVCFbKm9GiazsBnG1
+2024-11-25 14:08:04 [[32minfo[39m]: Account 7 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:05 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : SrFcRLzAP9AQRSUF4iUS9ex8pgi6ssVZHeg5zhmacHk
+2024-11-25 14:08:05 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : 8T5phP5mPcG5YGRdPkXiEAE7Kodbfq5NvMvnqTyse8WW
+2024-11-25 14:08:05 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:08:05 [[32minfo[39m]: Account 5 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:05 [[32minfo[39m]: Account 12 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:05 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:08:06 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : 7KnWVSsMnRPuhZxvSXjMsU6gW12CouE9YyisRKBKPMd5
+2024-11-25 14:08:06 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : AZUhLo9LnMqYmDd4ZR86tq5HchUvtkTuVDFFYVDAB4Wn
+2024-11-25 14:08:06 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : 6528313nBrUPYW8oTg9zV6xi12LsWBMhPJbyJsVz5KXS
+2024-11-25 14:08:06 [[32minfo[39m]: Account 4 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:06 [[32minfo[39m]: Account 1 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:06 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:08:06 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:08:06 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : DAev7tpzwn1M7razrE8zWNvpFqYxMF1ZcCrTzLqK9B6t
+2024-11-25 14:08:07 [[32minfo[39m]: Account 14 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:07 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : GLFddgk1Xh2GJgsuTWkYeETvQEFbrnkedwYKFmFcamBr
+2024-11-25 14:08:07 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : 6rC89TFsmKckbn8sFTWk8UcSedkWexCXRRWvrfuJqQvt
+2024-11-25 14:08:07 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : 7c9tedEo1qBHveg3ydvQiJq4EusDz66S2ByicUTMPcfx
+2024-11-25 14:08:07 [[32minfo[39m]: Account 9 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:07 [[32minfo[39m]: Account 13 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:07 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:08:07 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:08:07 [[32minfo[39m]: Account 6 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:08 [[32minfo[39m]: Account 11 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:08 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:08:08 [[32minfo[39m]: Account 3 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:08 [[32minfo[39m]: Account 10 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:08 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:08:08 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : KjWYDJnob1WFVCqNieVytooVdKcX3yvzVHeLasChGwZ
+2024-11-25 14:08:08 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:08:08 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:08:09 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:08:09 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:08:09 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:08:09 [[32minfo[39m]: Account 2 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:09 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : HQHTQ819CH4hfB4SaSLYrH5r2XAm4WhvWzWrmaK1R9Sb
+2024-11-25 14:08:10 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : GQGw2PWEhtpX3c2KXe55B9Dd7xYCrSTtexYY6j8tuczQ
+2024-11-25 14:08:10 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:08:10 [[32minfo[39m]: Account 7 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:10 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : 9J8kTYVyGGYprkfjvZfxokrWfNzo1foj11ZKe6N8ScA8
+2024-11-25 14:08:10 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : B6yWsv5QcyJkqNT6eMZombwftcADK9JF7odzKNJbbdCe
+2024-11-25 14:08:11 [[32minfo[39m]: Account 8 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:11 [[32minfo[39m]: Account 12 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:11 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : 4GdzZJQi2j7iBJggP2TWx5keCUiTFg1WZg3JtkADprHd
+2024-11-25 14:08:11 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : 8oddjhMdBFDq6deZfMYWd9dSphbWv5Y9Ak3GzG4mvuWV
+2024-11-25 14:08:11 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:08:12 [[32minfo[39m]: Account 5 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:12 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:08:12 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : 9K1jJ6KgDAqUKsN8tA9kTD3Cc2CM5k8EjaRRZfigXFQc
+2024-11-25 14:08:12 [[32minfo[39m]: Account 12 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:12 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : 9tnH9YcXcZTSKyKHaKyBCrRGuHt6yFPpZZGsbXjDVYwG
+2024-11-25 14:08:12 [[32minfo[39m]: Account 4 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:12 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : ebxQWxoPckjPtFZad4GrmoScu49ShyUntP1TnTm6J4c
+2024-11-25 14:08:12 [[32minfo[39m]: Account 1 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:12 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : BKeX6iLodpBT2q5axDVnoUCEi7EthNFWV3s1bGRrc83i
+2024-11-25 14:08:13 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:08:13 [[32minfo[39m]: Account 13 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:13 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : BsCzmULCupPQxbvRWE11yxMz9MG4cBrpkDSrkPde4pj9
+2024-11-25 14:08:13 [[32minfo[39m]: Account 6 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:13 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : 93PpRy8ExyTtFTdsq1kyQ192bfGqVuTmTtna3mbXbHdB
+2024-11-25 14:08:13 [[32minfo[39m]: Account 14 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:13 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:08:13 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : HRv9tkR6LzdpvVjuEPE7wzHujVaAyzJnPQcsLWBYYumL
+2024-11-25 14:08:13 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:08:13 [[32minfo[39m]: Account 9 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:13 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:08:14 [[32minfo[39m]: Account 13 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:14 [[32minfo[39m]: Account 11 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:14 [[32minfo[39m]: Account 6 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:14 [[32minfo[39m]: Account 3 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:14 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:08:14 [[32minfo[39m]: Account 10 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:14 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:08:15 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:08:15 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:08:15 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:08:15 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:08:15 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:08:15 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : 4pLFfXXSNw4oy1wqNr6i49NgjpzoeWEAQr3h5Lez4B8u
+2024-11-25 14:08:16 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : 6DDHJhD7eaRBAhjHjSV7KeRzMMPQYP7DCkNBBJJAytaK
+2024-11-25 14:08:16 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : FKRaeZRaLTeTRZQ9jth6PXdGMC86nYikodjJmcw4F375
+2024-11-25 14:08:16 [[32minfo[39m]: Account 2 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:16 [[32minfo[39m]: Account 7 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:16 [[32minfo[39m]: Account 8 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:17 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : 8iTERqH79AF7jmpTsjkcvbkj2bHss2Z3PrhKGj2CaXmp
+2024-11-25 14:08:17 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : GcR6QruLHTABRHh3JxnSCTemELpRQdLegQcg39pj8jsX
+2024-11-25 14:08:17 [[32minfo[39m]: Account 2 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:17 [[32minfo[39m]: Account 7 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:17 [[32minfo[39m]: Account 5 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:17 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : 4TB2AKdxnBXS3WgsateiE9HFe5oeovsiFVghbphk1cB1
+2024-11-25 14:08:17 [[32minfo[39m]: Account 8 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:18 [[32minfo[39m]: Account 12 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:18 [[32minfo[39m]: Account 4 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:18 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : 4FrhFNxKgMM4RskjwN5GzVnHBtgEMbd3WTq8xZBJxaEU
+2024-11-25 14:08:18 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : 5nyKQ1Prp37G9FkSrvv3Xfy7K1U1siPcJ9jpZzAi5Pwi
+2024-11-25 14:08:18 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:08:18 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:08:18 [[32minfo[39m]: Account 5 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:18 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:08:18 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : BPBsYDH7m9SGyCtBCLksXASjBbpUaKJm3Y6ryQAWEkDb
+2024-11-25 14:08:19 [[32minfo[39m]: Account 1 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:19 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : byuizgYUhf3B5XFg2jpNRxDe5tmmcSMyAqo8UbAA5jc
+2024-11-25 14:08:19 [[32minfo[39m]: Account 14 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:19 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : 9ny8dwiiPHG2XX5aTp2T8FJqHN6FxQDmqK1Mr8NHWjhz
+2024-11-25 14:08:19 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:08:19 [[32minfo[39m]: Account 4 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:19 [[32minfo[39m]: Account 9 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:19 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:08:20 [[32minfo[39m]: Account 1 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:20 [[32minfo[39m]: Account 13 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:20 [[32minfo[39m]: Account 14 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:20 [[32minfo[39m]: Account 6 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:20 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:08:20 [[32minfo[39m]: Account 9 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:20 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : HyEPEQzfkJxqa1UVU4btroTPFb4dijb5XTjfrXUh6LjH
+2024-11-25 14:08:20 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : DESMTrQ17FohwWhMJgQcXitMDv1D3aKGmgtqAhhbXQWV
+2024-11-25 14:08:20 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : HPpw27gvyVCsaFt6a8tutYWfQRim1iifsYe5WYgNXjGH
+2024-11-25 14:08:21 [[32minfo[39m]: Account 10 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:21 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:08:21 [[32minfo[39m]: Account 3 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:21 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:08:21 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:08:21 [[32minfo[39m]: Account 11 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:21 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:08:21 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:08:22 [[32minfo[39m]: Account 10 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:22 [[32minfo[39m]: Account 3 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:22 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : 7n8MT5sitoEqpyWHK7kLnJujjTxo9nCLAAxDfpnEHrGW
+2024-11-25 14:08:22 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : zgbQr7iPP64wPn4wJ3kFfe3gRV8f2RmusYp2ts7zxCF
+2024-11-25 14:08:22 [[32minfo[39m]: Account 11 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:22 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : Arj9NJYQUqDeTqWLg8J3BjpDWKP4XyhTichM2LKqLtoK
+2024-11-25 14:08:23 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:08:23 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:08:23 [[32minfo[39m]: Account 2 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:23 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : Faoub58mj2skFcyi5tep25SWEGsb4e71Hv7vBZxbP6Jq
+2024-11-25 14:08:23 [[32minfo[39m]: Account 7 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:23 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:08:23 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : 8J4Nb1wfbRyzyqYijM7YAgfc8RysKxg3t9B2azE2trzq
+2024-11-25 14:08:23 [[32minfo[39m]: Account 8 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:24 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : 4nQXfVKPYQyjy7zQampTeEzZyHDvRZ1KbjfyiQ2TDf4P
+2024-11-25 14:08:24 [[32minfo[39m]: Account 12 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:24 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:08:24 [[32minfo[39m]: Account 7 - Đang thực thi giao dịch ...
+2024-11-25 14:08:24 [[32minfo[39m]: Account 5 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:24 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:08:24 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : EpxogmoZjAjyaJJF2ZbLbSmAAgAfKuubxDZ9CZfnnzbY
+2024-11-25 14:08:25 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : 4eGS6a9r9j8xGdKFUgdf3EYBNTu7QuNXDRcCCd3wzBTx
+2024-11-25 14:08:25 [[32minfo[39m]: Account 4 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:25 [[32minfo[39m]: Account 9 - Giao dịch đã thực thi : B2nQN8eo8T62xLfLFtyUZiAKTG83QCZiw3dwjgpn6KXo
+2024-11-25 14:08:25 [[32minfo[39m]: Account 13 - Giao dịch đã thực thi : 9r3rsuc8rmkukGQYtTDpbAYXwDAWbNZjKowAwe26ZtSG
+2024-11-25 14:08:25 [[32minfo[39m]: Account 6 - Giao dịch đã thực thi : Fjg51Gz1Y1F32NDxDUzp9U5eRs4f8MHteXrCVEcvsEtQ
+2024-11-25 14:08:25 [[32minfo[39m]: Account 12 - Đang thực thi giao dịch ...
+2024-11-25 14:08:25 [[32minfo[39m]: Account 5 - Đang thực thi giao dịch ...
+2024-11-25 14:08:25 [[32minfo[39m]: Account 1 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:26 [[32minfo[39m]: Account 14 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:26 [[32minfo[39m]: Account 4 - Đang thực thi giao dịch ...
+2024-11-25 14:08:26 [[32minfo[39m]: Account 9 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:26 [[32minfo[39m]: Account 13 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:26 [[32minfo[39m]: Account 6 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:26 [[32minfo[39m]: Account 10 - Giao dịch đã thực thi : 2skjwaTLe8vxSTMHLwLx4fVr5n3tmvhF6Dsgy3d5udQS
+2024-11-25 14:08:27 [[32minfo[39m]: Account 3 - Giao dịch đã thực thi : CLoeAsZu4nfTBsBmDNqa3dcbhffciLs7zbds6EmZA2QH
+2024-11-25 14:08:27 [[32minfo[39m]: Account 1 - Đang thực thi giao dịch ...
+2024-11-25 14:08:27 [[32minfo[39m]: Account 14 - Đang thực thi giao dịch ...
+2024-11-25 14:08:27 [[32minfo[39m]: Account 11 - Giao dịch đã thực thi : 41EyMJuUCYBwi1xJiXD5aqafNnyTLfTrXRTy7vg88WEt
+2024-11-25 14:08:27 [[32minfo[39m]: Account 9 - Đang thực thi giao dịch ...
+2024-11-25 14:08:27 [[32minfo[39m]: Account 13 - Đang thực thi giao dịch ...
+2024-11-25 14:08:27 [[32minfo[39m]: Account 6 - Đang thực thi giao dịch ...
+2024-11-25 14:08:28 [[32minfo[39m]: Account 10 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:28 [[32minfo[39m]: Account 3 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:28 [[32minfo[39m]: Account 11 - Đang trao đổi WAL → SUI
+2024-11-25 14:08:28 [[32minfo[39m]: Account 7 - Giao dịch đã thực thi : FTpdEi8DBWBjf9GGCZLbExMiNkDuXxT1jx56XDUQc99q
+2024-11-25 14:08:28 [[32minfo[39m]: Account 2 - Giao dịch đã thực thi : 6jqx6sxc4jS2JE3QE26kmtie9VvRiUNpVQ6gBKAPyd4N
+2024-11-25 14:08:28 [[32minfo[39m]: Account 8 - Giao dịch đã thực thi : 45JQgrcK88ovowe3JPugL5s7jy1FugJ4zEcSsZXeB2RM
+2024-11-25 14:08:29 [[32minfo[39m]: Account 10 - Đang thực thi giao dịch ...
+2024-11-25 14:08:29 [[32minfo[39m]: Account 3 - Đang thực thi giao dịch ...
+2024-11-25 14:08:29 [[32minfo[39m]: Account 11 - Đang thực thi giao dịch ...
+2024-11-25 14:08:29 [[32minfo[39m]: Account 12 - Giao dịch đã thực thi : 5JXWDG562eSvUthqQxixNHG2U3116nSVAjBs27VR8BvT
+2024-11-25 14:08:29 [[32minfo[39m]: Account 7 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:29 [[31merror[39m]: Swap Error : The number 4100000.0000000005 cannot be converted to a BigInt because it is not an integer
+2024-11-25 14:08:29 [[32minfo[39m]: Account 5 - Giao dịch đã thực thi : 9b7HkWmjvHrvAjoHXoFJHRBKGGPfMNp4AfbH2ksnXyJp
+2024-11-25 14:08:29 [[32minfo[39m]: Account 2 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:29 [[32minfo[39m]: Account 8 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:30 [[32minfo[39m]: Account 12 - Đang hợp nhất đồng tiền
+2024-11-25 14:08:30 [[32minfo[39m]: Account 4 - Giao dịch đã thực thi : DmMgH2ospzfecrMoNN7VJHFEC7qnYEncNsKFXvLdBgjt
+2024-11-25 14:08:30 [[32minfo[39m]: Account 7 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:30 [[32minfo[39m]: Account 5 - Đang trao đổi SUI → WAL
+2024-11-25 14:08:30 [[32minfo[39m]: Account 2 - Đang thực thi giao dịch ...
+2024-11-25 14:08:30 [[32minfo[39m]: Account 8 - Đang thực thi giao dịch ...
+2024-11-25 14:08:31 [[32minfo[39m]: Account 1 - Giao dịch đã thực thi : 216tPombmhmf3ShD6fVv1hWKPtEEKk7jxcMw8MFBW4AL
+2024-11-25 14:08:31 [[32minfo[39m]: Account 12 - Đang hợp nhất 1 đối tượng của 0x9f992cc2430a1f442ca7a5ca7638169f5d5c00e0ebc3977a65e9ac6e497fe5ef::wal::WAL
+2024-11-25 14:08:31 [[32minfo[39m]: Account 14 - Giao dịch đã thực thi : 46bC2WyBUdhsMSafK8oPKDCDTFbDvm7LRHCkb5aHxhdg
+2024-11-25 14:08:31 [[32minfo[39m]: Account 4 - Đang trao đổi SUI → WAL
