@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "@mysten/sui": "^1.13.0",
+    "bip39": "^3.1.0",
+    "blessed": "^0.1.81",
+    "input": "^1.0.1",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2",
+    "shx": "^0.3.4",
+    "twisters": "^1.1.0",
+    "winston": "^3.13.0"
+  }
+}

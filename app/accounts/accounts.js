@@ -1,0 +1,16 @@
+export const privateKey = [
+  "suiprivkey1qqhnt99q7d0rpn2p6e2v6tfpkrfa33ered4graru9renhfj0l8pfq9uyhqq",
+  "suiprivkey1qz9x7fc9npm670dl9uam2duhtcg6w86md5duwjgj3dzcl4g3zp69qslx74g",
+  "suiprivkey1qpannfdn77f5m6adyh2sylz8yvz8edeysvfv8ayvyaag38q6tf9ykqmzp6g",
+  "suiprivkey1qpcxae5rlas9zpspyf9rdy5pykfd8tcqfyfp0vffy07606mjw887uwc2nrd",
+  "suiprivkey1qqjzfj40e6276lu248ase5hxkxndkudez3uvvx9q0qa6myeuysunumfug2a",
+  "suiprivkey1qrty309hy4y9j53azkve7gtg9tgzk6tfv237s0c54vyp3pxtqww4yx2vzc0",
+  "suiprivkey1qzz4macglly8q5dyepxaknturvv2vyr78yq2swd4pvhjqrlq9awfxaaku6m",
+  "suiprivkey1qz02yhzw4td82w22z6x2uedmczf95r3c0r2ce7xaexy7jj34d5g9gsvq0vz",
+  "suiprivkey1qqe8eeatxtgtuf98a8x3nfvrzljdpe3tt7pvrmzmu0x9tszprvdjzs3wjkr",
+  "suiprivkey1qpqmups9ewq5u8jregqy550yqh3mm43gzgp25ltgx5pg9d8ek63wjqlmcds",
+  "suiprivkey1qqkguaklkphd2gn5k5n5cug2rltj8jnlycf9yc7c4r2y8lvkpumlw5zg56t",
+  "suiprivkey1qp70dktav9cw4p284w0zwqp0zrqcudnwzpx0kvydjxeg6fxs8ykhjfy4ap4",
+  "suiprivkey1qq7mkcrt4snfk0hc2rtaflajeu0fy9gpkra6lf5vcg9dastx9fy4kdjmyrh",
+  "suiprivkey1qrnw4fqz3ns3cthkc4cwak2rg4wz4n7veaz8v7n9adr8fk0pulknukrgqu5",
+];
